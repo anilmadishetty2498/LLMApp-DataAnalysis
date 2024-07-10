@@ -1,0 +1,8 @@
+langchain
+streamlit==1.31.0
+openai
+tiktoken
+python-dotenv
+pinecone-client
+langchain_experimental
+tabulate
